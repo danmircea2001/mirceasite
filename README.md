@@ -1,0 +1,2 @@
+# mirceasite
+pentru azure
